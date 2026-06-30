@@ -129,6 +129,8 @@ n_\mathrm{eff}=\sqrt{\lambda}
 * 場是否集中在 core 附近
 * 場是否在 computational boundary 附近衰減
 
+應該會得到類似這樣的結果：
+![mode_profile](../notes/figures/week2/mode_profile.png)
 ---
 
 ## 7. 任務五：重現 benchmark
@@ -145,6 +147,9 @@ n_\mathrm{eff}=\sqrt{\lambda}
 * benchmark 數值
 * 網格變細後的差異
 * mode profile 是否合理
+
+應該會得到類似這樣子的結果：
+![reproduce_benchmark](../notes/figures/week2/reproduce_benchmark.png)
 
 ---
 
