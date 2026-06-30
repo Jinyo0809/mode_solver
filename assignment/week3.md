@@ -200,6 +200,7 @@ mode_2d = mode_vector.reshape(
 本週只需進行初步判讀，完整分類與 convergence analysis 留到 Week 4。
 
 應該會得到類似這樣的結果：
+
 ![mode_profile](../notes/figures/week3/mode_profile.png)
 ![effective_index](../notes/figures/week3/effective_index.png)
 
